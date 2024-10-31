@@ -1,4 +1,4 @@
-Cyber Security Course - 2310 Iowa State
+## Cyber Security Course - 2310 Iowa State
 
 Course Overview
 
